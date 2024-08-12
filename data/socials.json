@@ -1,0 +1,87 @@
+[
+    {
+        "priority":0,
+        "name":"GitHub",
+        "link":"https://dxl44.github.io",
+        "image":""
+    },
+    {
+        "priority":0,
+        "name":"Twitter",
+        "link":"https://twitter.com/dxl44",
+        "image":""
+    },
+    {
+        "priority":0,
+        "name":"YouTube",
+        "link":"https://youtube.com/@dxl44",
+        "image":""
+    },
+    {
+        "priority":0,
+        "name":"Toyhou.se",
+        "link":"https://toyhou.se/dxl44",
+        "image":""
+    },
+    {
+        "priority":0,
+        "name":"Sheezy.art",
+        "link":"https://sheezy.art/dxl44",
+        "image":""
+    },
+
+
+
+    {
+        "priority":1,
+        "name":"Tumblr",
+        "link":"https://dxl44.tumblr.com",
+        "image":""
+    },
+
+
+    {
+        "priority":1,
+        "name":"Twitch",
+        "link":"https://twitch.tv/dxl44",
+        "image":""
+    },
+    {
+        "priority":1,
+        "name":"BlueSky",
+        "link":"https://bsky.app/profile/dxl44.bsky.social",
+        "image":""
+    },
+    {
+        "priority":1,
+        "name":"Steam",
+        "link":"https://steamcommunity.com/id/dxl44/",
+        "image":""
+    },
+
+
+    {
+        "priority":2,
+        "name":"Scratch",
+        "link":"https://scratch.mit.edu/users/destroyerxl44",
+        "image":""
+    },
+    {
+        "priority":2,
+        "name":"TVTropes",
+        "link":"https://tvtropes.org/pmwiki/pmwiki.php/Tropers/DXL44",
+        "image":""
+    },
+    {
+        "priority":2,
+        "name":"Reddit",
+        "link":"https://reddit.com/u/dxl44",
+        "image":""
+    },
+    {
+        "priority":2,
+        "name":"Tenor",
+        "link":"https://tenor.com/users/dxl44",
+        "image":""
+    }
+]
